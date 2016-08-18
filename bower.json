@@ -1,0 +1,17 @@
+{
+    "name": "dawningofanewday-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Kimberly Geswein"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/dawningofanewday-bower.git"
+    },
+    "description": "Dawning of a New Day font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
